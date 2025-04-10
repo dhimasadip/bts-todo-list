@@ -5,6 +5,7 @@ Typescript, NestJS, TypeORM, Postgresql
 ## Project setup
 
 ```bash
+note: before run the app, please create a .env file in root and use file .env-template as an example variable
 $ npm install
 ```
 
